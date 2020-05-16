@@ -1,13 +1,13 @@
 # Site settings
 title: soliva Blog
-SEOTitle: soliva的博客 | BY Blog
+SEOTitle: moran的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
-email: aixin610958259@gmail.com
+email: 15241177143@163.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, soliva的博客, bioinfo,julia"
-url: "http://zhaohongqiangsoliva.github.io"          # your host, for absolute URL
+keyword: "BY, BY Blog, moran的博客, 运营，互联网"
+url: "http://moran.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/zhaohongqiangsoliva/zhaohongqiangsoliva.github.io.git" # you code repository
+github_repo: "https://github.com/moran1013/moran.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
